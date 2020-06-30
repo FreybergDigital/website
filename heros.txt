@@ -1,0 +1,4 @@
+Clark,Kent,Superman,"https://www.telegraph.co.uk/content/dam/films/2017/11/27/cavill_trans_NvBQzQNjv4BqVkR74_kydjgeTPIib1rsJ6x30VG81Iu4g0V5oSrMhqQ.jpg";
+Bruce,Wayne,Batman,"https://imgflip.com/s/meme/Batman-Slapping-Robin.jpg";
+Wally,West,Flash,"http://lh5.ggpht.com/-ktLaWEvbUG8/UT7IenmQgHI/AAAAAAAABls/9B8MVc6lHSM/s640/funny-pictures-humor-fat-flash-costume.png";
+Diana,Prince,Wonder Woman,"https://pics.me.me/are-you-a-man-what-is-a-secretary-is-this-3184768.png";
